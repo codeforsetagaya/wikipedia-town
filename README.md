@@ -17,7 +17,9 @@
     - 2015年10月4日 [第3回 海老名（海老名市）](http://peatix.com/event/114390)
     - 2015年11月3日 [第4回 二子玉川（世田谷区、川崎市）](http://peatix.com/event/121735)
     - 2015年11月7日-8日 [Code for Japan Summit 2015 ブース](http://summit2015.code4japan.org/schedule/wikipedia_kaido/)
-    - 2015年12月27日 もくもく会](http://wikipedia-road-mokumoku.peatix.com/)
+    - 2015年12月27日 [もくもく会](http://wikipedia-road-mokumoku.peatix.com/)
+    - 2016年3月26日 [第5回 宮前（川崎市）](http://wikipedia-road-5.peatix.com/)
+    - 2016年5月15日 [第6回 上町（世田谷区）](http://wikipedia-road-6.peatix.com/)
     
 - 登戸道（津久井往還）
 - 滝坂道（甲州中出道）
