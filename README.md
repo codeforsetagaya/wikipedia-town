@@ -16,7 +16,7 @@
 
 - 大山道（矢倉沢往還）
     - 2015年5月23日 [第1回 高津・溝口（川崎市）](http://www.meetup.com/ja/open_kawasaki/events/221965768/?eventId=221965768)
-        - [溝口神社](https://ja.wikipedia.org/wiki/%E6%BA%9D%E5%8F%A3%E7%A5%9E%E7%A4%BE) 、[光明寺（川崎市）](https://ja.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E5%AF%BA_(%E5%B7%9D%E5%B4%8E%E5%B8%82))、[大山街道ふるさと館]（https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E8%A1%97%E9%81%93%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E9%A4%A8）
+        - [溝口神社](https://ja.wikipedia.org/wiki/%E6%BA%9D%E5%8F%A3%E7%A5%9E%E7%A4%BE) 、[光明寺（川崎市）](https://ja.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E5%AF%BA_(%E5%B7%9D%E5%B4%8E%E5%B8%82))、[大山街道ふるさと館](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E8%A1%97%E9%81%93%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E9%A4%A8)
     - 2015年8月9日 [第2回 用賀・瀬田（世田谷区）](http://wikipedia-road-2.peatix.com/)
         - [用賀神社](https://ja.wikipedia.org/wiki/%E7%94%A8%E8%B3%80%E7%A5%9E%E7%A4%BE)、[瀬田玉川神社](https://ja.wikipedia.org/wiki/%E7%80%AC%E7%94%B0%E7%8E%89%E5%B7%9D%E7%A5%9E%E7%A4%BE)、[慈眼寺（世田谷区）](https://ja.wikipedia.org/wiki/%E6%85%88%E7%9C%BC%E5%AF%BA_(%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA))
     - 2015年10月4日 [第3回 海老名（海老名市）](http://peatix.com/event/114390)
