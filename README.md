@@ -30,6 +30,9 @@
     - 2016年3月26日 [第5回 宮前（川崎市）](http://wikipedia-road-5.peatix.com/)
         - [泉福寺（川崎市）](https://ja.wikipedia.org/wiki/%E6%B3%89%E7%A6%8F%E5%AF%BA_(%E5%B7%9D%E5%B4%8E%E5%B8%82))、[正福寺（川崎市宮前区）](https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%A6%8F%E5%AF%BA_(%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%AE%AE%E5%89%8D%E5%8C%BA))
     - 2016年5月15日 [第6回 上町（世田谷区）](http://wikipedia-road-6.peatix.com/)
-    
+        - [世田谷代官屋敷](https://ja.wikipedia.org/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E5%AE%98%E5%B1%8B%E6%95%B7)、[勝光院](https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%85%89%E9%99%A2)
+    - 2016年7月24日 [第7回 荏田（横浜市）](http://wikipedia-road-7.peatix.com/)
+        - 荏田宿、真福寺
+
 - 登戸道（津久井往還）
 - 滝坂道（甲州中出道）
