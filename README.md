@@ -37,7 +37,8 @@
 ## 関連記事など（リンク集）
 
 - 大山道（矢倉沢往還）
-    - [GeoJSONでのイベント記録](http://ukinedori.github.io/wikipedia-kaido/)
+    - 随時更新 Ukinedori.github
+        - [GeoJSONでのイベント記録](http://ukinedori.github.io/wikipedia-kaido/)
     - 2015年5月30日 LocalWiki Kawasaki
         - [第1回 ウィキペディア街道「大山道」](https://ja.localwiki.org/kawasaki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E8%A1%97%E9%81%93%E3%80%8C%E5%A4%A7%E5%B1%B1%E9%81%93%E3%80%8D)
     - 2015年8月29日 SankeiBiz
@@ -52,4 +53,3 @@
         - [15周年を迎えたウィキペディアが、地域振興の主役になるかもしれない（後編）](http://j-town.net/tokyo/column/allprefcolumn/220738.html?p=all)
     - 2016年7月25日 港北経済新聞
         - [あざみ野でウィキペディア執筆イベント 「荏田宿」と「真福寺」を追加](http://kohoku.keizai.biz/headline/1793/)
-    - 
