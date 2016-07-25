@@ -42,7 +42,7 @@
     - 2015年5月30日 LocalWiki Kawasaki
         - [第1回 ウィキペディア街道「大山道」](https://ja.localwiki.org/kawasaki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E8%A1%97%E9%81%93%E3%80%8C%E5%A4%A7%E5%B1%B1%E9%81%93%E3%80%8D)
     - 2015年8月29日 SankeiBiz
-        - ウィキペディアで地域発信 歩いて調べて事典を書こう　※リンク切れ
+        - [ウィキペディアで地域発信 歩いて調べて事典を書こう](http://www.sankeibiz.jp/business/news/150829/bsj1508290710002-n1.htm)　※リンク切れ
     - 2015年10月16日 タウンニュース海老名版
         - [市内名所、ウェブでＰＲ ウィキペディアに掲載](http://www.townnews.co.jp/0402/2015/10/16/304136.html)
     - 2015年11月7日-8日 Code for Japan Summit 2015
@@ -51,5 +51,9 @@
         - [子どもと一緒に現場へ！Code for Setagaya西村さんの仕事・家庭・地域活動をまるごと楽しむ方法](http://mydeskteam.com/casefile/1854/)
     - 2016年2月3日 Jタウンネット東京都
         - [15周年を迎えたウィキペディアが、地域振興の主役になるかもしれない（後編）](http://j-town.net/tokyo/column/allprefcolumn/220738.html?p=all)
+    - 2016年7月11日 CivicWave
+        - [街歩きイベント「ウィキペディアタウン」【東修作】](http://www.civicwave.jp/archives/52137739.html)
+    - 2016年7月24日 Code for Kanagawa
+        - [7/24(日) Wikipedia 街道 大山道 荏田宿、真福寺 第7回Wikipedia街道 大山道を開催しました](http://code4kanagawa.org/news/l28d22)
     - 2016年7月25日 港北経済新聞
         - [あざみ野でウィキペディア執筆イベント 「荏田宿」と「真福寺」を追加](http://kohoku.keizai.biz/headline/1793/)
