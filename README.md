@@ -27,8 +27,8 @@
     - [世田谷代官屋敷](https://ja.wikipedia.org/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E4%BB%A3%E5%AE%98%E5%B1%8B%E6%95%B7)、[勝光院](https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%85%89%E9%99%A2)
 - 2016年7月24日 [第7回 荏田（横浜市）](http://wikipedia-road-7.peatix.com/)
     - [荏田宿](https://ja.wikipedia.org/wiki/%E8%8D%8F%E7%94%B0%E5%AE%BF)、[真福寺 (横浜市青葉区)](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A6%8F%E5%AF%BA_(%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA))
-- 2016年10月2日 第8回 本厚木（厚木市）
-    - 執筆対象検討中
+- 2016年10月2日 [第8回 本厚木（厚木市）](http://wikipedia-road-08.peatix.com/)
+    - 厚木宿、厚木神社など予定
 
 ## 関連記事など
 
@@ -52,3 +52,5 @@
     - [7/24(日) Wikipedia 街道 大山道 荏田宿、真福寺 第7回Wikipedia街道 大山道を開催しました](http://code4kanagawa.org/news/l28d22)
 - 2016年7月25日 港北経済新聞
     - [あざみ野でウィキペディア執筆イベント 「荏田宿」と「真福寺」を追加](http://kohoku.keizai.biz/headline/1793/)
+- 2016年8月25日 厚木市ホームページ
+    - [第8回ウィキペディア街道「大山道」を開催します](http://www.city.atsugi.kanagawa.jp/shisei/15001/opendata/portalsite/d035760.html)
