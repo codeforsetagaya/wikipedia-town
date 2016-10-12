@@ -28,7 +28,7 @@
 - 2016年7月24日 [第7回 荏田（横浜市）](http://wikipedia-road-7.peatix.com/)
     - [荏田宿](https://ja.wikipedia.org/wiki/%E8%8D%8F%E7%94%B0%E5%AE%BF)、[真福寺 (横浜市青葉区)](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A6%8F%E5%AF%BA_(%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA))
 - 2016年10月2日 [第8回 本厚木（厚木市）](http://wikipedia-road-08.peatix.com/)
-    - 厚木宿、厚木神社など予定
+    - [厚木宿](https://ja.wikipedia.org/wiki/%E5%8E%9A%E6%9C%A8%E5%AE%BF)、[厚木神社](https://ja.wikipedia.org/wiki/%E5%8E%9A%E6%9C%A8%E7%A5%9E%E7%A4%BE)
 
 ## 関連記事など
 
