@@ -29,6 +29,8 @@
     - [荏田宿](https://ja.wikipedia.org/wiki/%E8%8D%8F%E7%94%B0%E5%AE%BF)、[真福寺 (横浜市青葉区)](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A6%8F%E5%AF%BA_(%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA))
 - 2016年10月2日 [第8回 本厚木（厚木市）](http://wikipedia-road-08.peatix.com/)
     - [厚木宿](https://ja.wikipedia.org/wiki/%E5%8E%9A%E6%9C%A8%E5%AE%BF)、[厚木神社](https://ja.wikipedia.org/wiki/%E5%8E%9A%E6%9C%A8%E7%A5%9E%E7%A4%BE)
+- 2016年11月19日-20日 Code for Japan Summit 2016 ブース
+- 2016年12月18日 もくもく会
 
 ## 関連記事など
 
@@ -54,3 +56,6 @@
     - [あざみ野でウィキペディア執筆イベント 「荏田宿」と「真福寺」を追加](http://kohoku.keizai.biz/headline/1793/)
 - 2016年8月25日 厚木市ホームページ
     - [第8回ウィキペディア街道「大山道」を開催します](http://www.city.atsugi.kanagawa.jp/shisei/15001/opendata/portalsite/d035760.html)
+- 2016年10月14日 タウンニュース厚木版
+    - [｢厚木神社｣と｢厚木宿｣を追加 ウィキペディア街道「大山道」の執筆イベント](http://www.townnews.co.jp/0404/2016/10/14/353191.html)
+    
